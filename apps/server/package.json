@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "scripts": {
+    "dev": "",
+    "build": "",
+    "start": ""
+  },
+  "packageManager": "yarn@3.6.3",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongodb": "^6.1.0",
+    "mongoose": "^7.5.2"
+  },
+  "devDependencies": {
+    "@swc/cli": "latest",
+    "@swc/core": "latest",
+    "@types/express": "latest",
+    "tsconfig": "workspace:^",
+    "typescript": "^5.2.2"
+  }
+}
